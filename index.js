@@ -1,4 +1,4 @@
-const BACKEND_URL = 'http://192.168.0.121:3000';
+const BACKEND_URL = 'http://82.33.96.128:3000';
 let currentUser = null;
 
 document.getElementById('loginForm').addEventListener('submit', async (e) => {
